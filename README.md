@@ -1,2 +1,3 @@
 # Node1
-ntg here, check out other repo's
+ntg here, working on some projects
+repo's will be available soon
